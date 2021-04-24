@@ -118,7 +118,30 @@
              "repo": "https://raw.githubusercontent.com/dawangLM/123/main/tls_daily.js",
              "icons": ["https://raw.githubusercontent.com/dawangLM/123/main/tls.jpeg", "https://raw.githubusercontent.com/dawangLM/123/main/tls.jpeg"],
              "script": "https://raw.githubusercontent.com/dawangLM/123/main/tls_daily.js"
-    }
+       },
+        {
+                "id": "kxhy",
+                "name": "开心花园",
+                "keys": ["kxhyheader"],
+                "author": "@linainai",
+                "settings": [{
+                "id": "kxhydstatus",
+                "name": "当前账号",
+                "val": "1",
+                "type": "number",
+                "desc": "当前账号对应"
+        },
+        {
+                "id": "kxhycount",
+                "name": "账号个数",
+                "val": "1",
+                "type": "number",
+                "desc": "需要几个账号，数字为几"
+        }],
+             "repo": "https://raw.githubusercontent.com/dawangLM/123/main/kxhy.js",
+             "icons": ["https://raw.githubusercontent.com/dawangLM/123/main/kxhy.png", "https://raw.githubusercontent.com/dawangLM/123/main/kxhy.png"],
+             "script": "https://raw.githubusercontent.com/dawangLM/123/main/kxhy.js"
+        }
    ]
   }
 
